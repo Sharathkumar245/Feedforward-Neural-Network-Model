@@ -30,4 +30,6 @@ Here we usually try to predict the accuracy and loss from the weights that we ge
 confusion matrix:
 This is a kind of matrix that which will help us to find the labels that which our models will provide us the information that how many of the test points that our model can be able to predict correctly and this will give us an idea about the model how good it is predicting the values.
 
-Here we will run the DL_assignment.ipynd
+Here we will run the DL_assignment.ipynd if we are working in the colab interface and if we are working on the offline machine then we will run the trian.py file.
+
+Basically we are trying to design a neural network for the datasets that we are proivded with.
